@@ -1,4 +1,4 @@
-🎵 AudioPlayer Java
+# AudioPlayer Java
 A simple and lightweight audio player application built in Java. This project allows users to load and play audio files (WAV, MP3, etc.) through a straightforward interface. It serves as a demonstration of handling audio streams, basic UI controls (if applicable), and file management in Java.
 
 📦 Features
